@@ -14,6 +14,6 @@ print('','_'*(len(a)+2))
 
 print('< '+a+' >')
 
-print('','‾'*(len(a)+2))
+print('','"'*(len(a)+2))
 
 print(cow)
